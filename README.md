@@ -24,16 +24,6 @@ Finance Tracker is a simple yet powerful mobile application designed to make per
 
 ---
 
-## 📸 Screenshots
-
-> Screenshots will be added after development.
-
-```
-assets/screenshots/
-```
-
----
-
 ## 🛠️ Tech Stack
 
 | Technology | Purpose |
