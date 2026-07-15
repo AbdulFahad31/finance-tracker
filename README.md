@@ -133,7 +133,7 @@ Feel free to fork the repository and submit a pull request.
 **Abdul Fahad**
 
 - GitHub: https://github.com/AbdulFahad31
-- LinkedIn: *(Add your LinkedIn profile here)*
+- LinkedIn: https://www.linkedin.com/in/abdul-fahad-m/
 
 ---
 
